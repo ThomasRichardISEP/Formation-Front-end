@@ -1,0 +1,68 @@
+body
+{
+	background-color : rgb(230,230,250);
+	/* background-image : 'D://Downloads/42510.jpg'; */
+	color : black;
+	font-family : "Comic Sans MS", cursive, sans-serif;
+}
+
+.header .photo{
+	margin-right: 30px;
+	float: left!important;
+}
+
+.container
+{
+	/*background-image : ('D://Downloads/42510.jpg');*/
+	background-color : white;
+	color : black;
+}
+
+.container img
+{
+	height:200px;
+}
+
+.description
+{
+	height:220px;
+	/*width:300px;*/
+	background-color : white;
+}
+
+.contact
+{
+	height:220px;
+	/*width:300px;*/
+	background-color : white;
+}
+
+.scolaire{
+	height:350px;
+	background-color : white;
+}
+
+.passions{
+	height:650px;
+	background-color : white;
+}
+
+.programmation{
+	height:500px;
+	background-color : white;
+}
+
+.localisation{
+	height:200px;
+	background-color : white;
+}
+
+
+
+
+/* pour les id c'est un # */
+#first_id{
+	height:200px;
+	width:200px;
+	background-color : green;
+}
